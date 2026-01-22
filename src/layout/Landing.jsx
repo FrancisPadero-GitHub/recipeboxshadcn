@@ -1,4 +1,3 @@
-import React from "react";
 import { useState, useEffect, useMemo } from "react";
 import data from "../data/recipes.json";
 
@@ -36,7 +35,6 @@ function Landing() {
     setFavorites(savedFavs);
   }, []);
 
-  // Persist favorites to localStorage whenever they change
   // Persist favorites to localStorage whenever they change
   useEffect(() => {
     localStorage.setItem("favorites", JSON.stringify(favorites));
