@@ -36,6 +36,7 @@ Recipe Manager is a comprehensive recipe management application that allows user
 - Grid layout with responsive design (1/2/3 columns based on screen size)
 - Recipe cards showing image, title, cooking time, servings, and category
 - Hover effects and smooth transitions
+  ![UI DEMO](public/sc1.png)
 
 ✅ **Search Functionality**
 
