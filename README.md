@@ -1,8 +1,8 @@
-# 🍳 Recipe Manager - RecipeBoxShadcn
+# 🍳 Recipe Manager - RecipeBox
 
 A modern, feature-rich Single-Page Application (SPA) for managing recipes, built with ReactJS and shadcn/ui.
 
-![Recipe Manager](https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=800)
+![UI DEMO](public/sc1.png)
 
 ## 📋 Table of Contents
 
@@ -36,7 +36,6 @@ Recipe Manager is a comprehensive recipe management application that allows user
 - Grid layout with responsive design (1/2/3 columns based on screen size)
 - Recipe cards showing image, title, cooking time, servings, and category
 - Hover effects and smooth transitions
-  ![UI DEMO](public/sc1.png)
 
 ✅ **Search Functionality**
 
